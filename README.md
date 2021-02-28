@@ -1,8 +1,5 @@
 ## HEY DUDE, WHAT'S GOOD? 👋
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSuwwWNB0mk5GM5DgzdXJdEa8Kcmf2_aYXUQ&usqp=CAU" width="100%" height="100px">
-
-
 Just little bit of introduction I'm Informatics student at Institute Technology of Kalimantan, interested in Android Development, NLP and Web Development. Right now I'm one of the 3000 participant in program Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka taking the Android Development path.
 <br>Here some additional info about me:
 - 🌱 I’m currently learning Kotlin and Android Development.
@@ -10,7 +7,7 @@ Just little bit of introduction I'm Informatics student at Institute Technology 
 - :computer: 24/7 in front of computer!
 - :books: Read technical books if I have spare time.
 
-### IDK, JUST WANNA SHARE MY FAVORITE QUOTE:
+#### IDK, JUST WANNA SHARE MY FAVORITE QUOTE:
 > For what it's worth: it's never too late
 > to be whoever you want to be
 > There's no time limit, stop whenever you want.
@@ -23,7 +20,7 @@ Just little bit of introduction I'm Informatics student at Institute Technology 
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&theme=highcontrast" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&theme=dark" width="50%">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohFahmi27&layout=compact&theme=highcontrast" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohFahmi27&layout=compact&theme=dark" width="50%">
 </p>
