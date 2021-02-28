@@ -1,6 +1,6 @@
 ## HEY DUDE, WHAT'S GOOD? 👋
 
-Just little bit of introduction I'm Informatics student at Institute Technology of Kalimantan, interested in Android Development, NLP and Web Development. Right now I'm one of the 3000 participant in program Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka taking the Android Development path.
+Just little bit of introduction, I'm Informatics student at Institute Technology of Kalimantan, interested in Android Development, NLP and Web Development. Right now I'm one of the 3000 participant in program Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka taking the Android Development path.
 <br>Here some additional info about me:
 - 🌱 I’m currently learning Kotlin and Android Development.
 - 💬 I always get excited to learn something new.
