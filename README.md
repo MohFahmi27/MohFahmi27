@@ -4,7 +4,7 @@ Just little bit of introduction, I'm Informatics student at Institute Technology
 <br>Here some additional info about me:
 - 🌱 I’m currently learning Kotlin and Android Development.
 - 💬 I always get excited to learn something new.
-- :computer: 24/7 in front of computer!
+- :computer: 24/7 in front of computer! (not true but somehow feels like that)
 - :books: Read technical books if I have spare time.
 
 #### IDK, JUST WANNA SHARE MY FAVORITE QUOTE:
