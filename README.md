@@ -7,6 +7,8 @@ Just little bit of introduction, I'm Informatics student at Institute Technology
 - :computer: 24/7 in front of computer! (not true but somehow feels like that)
 - :books: Read technical books if I have spare time.
 
+How to reach me: mohammadfahmi417@gmail.com
+
 #### IDK, JUST WANNA SHARE MY FAVORITE QUOTE:
 > For what it's worth: it's never too late
 > to be whoever you want to be
