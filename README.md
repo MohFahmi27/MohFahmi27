@@ -13,7 +13,7 @@ How to reach me: mohammadfahmi417@gmail.com
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&theme=dark" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&theme=midnight-purple" width="50%">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohFahmi27&layout=compact&theme=dark" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohFahmi27&layout=compact&theme=midnight-purple" width="50%" height="250px">
 </p>
