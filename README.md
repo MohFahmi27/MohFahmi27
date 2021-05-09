@@ -1,6 +1,6 @@
 ## HEY DUDE, WHAT'S GOOD? 👋
 
-<img src="https://github.com/MohFahmi27/MohFahmi27/blob/main/banner.png" width="100%" height="240">
+<img src="https://github.com/MohFahmi27/MohFahmi27/blob/main/banner.png" width="100%" height="320">
 
 Just little bit of introduction, I'm Informatics student at Institute Technology of Kalimantan, interested in Android Development, NLP and Web Development. Right now I'm one of the 3000 participant in program Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka taking the Android Development path.
 - 🌱 I’m currently learning Kotlin and Android Development.
