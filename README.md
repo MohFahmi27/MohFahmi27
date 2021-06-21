@@ -16,7 +16,10 @@ Just little bit of introduction, I'm Informatics student at Institute Technology
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohFahmi27&repo=MyExpertAndroidSubmission&show_icons=true&theme=algolia" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MohFahmi27&repo=MyFundamentalAndroidSubmission&show_icons=true&theme=algolia" width="50%">
+
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&theme=algolia" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&theme=algolia" width="50%"><br>
 </p>
