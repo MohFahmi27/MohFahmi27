@@ -18,7 +18,7 @@ Just little bit of introduction, I'm Informatics student at Institute Technology
 
 <p align="center">
   <a href="https://github.com/MohFahmi27/MyExpertAndroidSubmission"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohFahmi27&repo=MyExpertAndroidSubmission&show_icons=true&theme=algolia"></a>
-  <a href=https://github.com/MohFahmi27/Sentiment-Analysis-for-Bahasa-using-Lexicon-Based-Approach"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohFahmi27&repo=Sentiment-Analysis-for-Bahasa-using-Lexicon-Based-Approach&show_icons=true&theme=algolia"></a>
+  <a href="https://github.com/MohFahmi27/Sentiment-Analysis-for-Bahasa-using-Lexicon-Based-Approach"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohFahmi27&repo=Sentiment-Analysis-for-Bahasa-using-Lexicon-Based-Approach&show_icons=true&theme=algolia"></a>
 </p>
 
 <br>
