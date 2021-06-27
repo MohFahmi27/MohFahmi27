@@ -16,10 +16,10 @@ Just little bit of introduction, I'm Informatics student at Institute Technology
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/MohFahmi27/MyExpertAndroidSubmission"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohFahmi27&repo=MyExpertAndroidSubmission&show_icons=true&theme=algolia"></a>
   <a href="https://github.com/MohFahmi27/Sentiment-Analysis-for-Bahasa-using-Lexicon-Based-Approach"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohFahmi27&repo=Sentiment-Analysis-for-Bahasa-using-Lexicon-Based-Approach&show_icons=true&theme=algolia"></a>
-</p>
+</p> -->
 
 <br>
 <p align="center">
