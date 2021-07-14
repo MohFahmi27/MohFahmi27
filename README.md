@@ -10,7 +10,7 @@ Just little bit of introduction, I'm Informatics student at Institute Technology
 - 💬 I always get excited to learn something new.
 
 <br>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&bg_color=000000&title_color=040CE7&text_color=fff&border_color=040CE7&icon_color=040CE7"><br>
 </p>
 
