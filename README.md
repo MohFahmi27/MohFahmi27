@@ -11,7 +11,7 @@ Just little bit of introduction, I'm Informatics student at Institute Technology
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&bg_color=000000&title_color=040CE7&text_color=fff&border_color=040CE7&icon_color=040CE7"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&bg_color=000000&title_color=040CE7&text_color=fff&border_color=040CE7&icon_color=040CE7&include_all_commits=true&count_private=true"><br>
 </p>
 
 ### How To Reach Me:
