@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MohFahmi27.MohFahmi27) 
 [![GitHub followers](https://img.shields.io/github/followers/MohFahmi27.svg?style=social&label=Followers)](https://github.com/MohFahmi27?tab=followers)
 
-<img src="https://github.com/MohFahmi27/MohFahmi27/blob/main/Presentation1.jpg">
+<img src="https://github.com/MohFahmi27/MohFahmi27/blob/main/profile-banner.jpg">
 
 Just little bit of introduction, I'm Informatics student at Institute Technology of Kalimantan, interested in Android Development, NLP and Web Development. 
 
