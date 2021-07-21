@@ -26,3 +26,6 @@ Just little bit of introduction, I'm Informatics student at Institute Technology
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySql](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+### Weekly Status:
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohFahmi27&show_icons=true&bg_color=000000&title_color=040CE7&text_color=fff&border_color=040CE7&icon_color=fff&custom_title=Weekly Work" width="100%">
