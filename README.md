@@ -1,5 +1,5 @@
 ## HEY DUDE, WHAT'S GOOD? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-[![GitHub followers](https://img.shields.io/github/followers/MohFahmi27?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follows)](https://github.com/MohFahmi27?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/MohFahmi27?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers)](https://github.com/MohFahmi27?tab=followers)
 
 <img src="https://github.com/MohFahmi27/MohFahmi27/blob/main/profile-banner2.jpg">
 
