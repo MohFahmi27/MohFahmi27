@@ -1,6 +1,5 @@
-## HEY DUDE, WHAT'S GOOD? 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MohFahmi27.MohFahmi27) 
-[![GitHub followers](https://img.shields.io/github/followers/MohFahmi27.svg?style=social&label=Followers)](https://github.com/MohFahmi27?tab=followers)
+## HEY DUDE, WHAT'S GOOD? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+[![GitHub followers](https://img.shields.io/github/followers/MohFahmi27?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follows)](https://github.com/MohFahmi27?tab=followers)
 
 <img src="https://github.com/MohFahmi27/MohFahmi27/blob/main/profile-banner2.jpg">
 
@@ -11,11 +10,9 @@ Just little bit of introduction, I'm Informatics student at Institute Technology
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&bg_color=000000,040CE7,000000,000000,000000,000000,000000,000000&text_color=fff&border_color=040CE7&icon_color=fff&include_all_commits=true&count_private=true&hide_title=true" height="190">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohFahmi27&layout=compact&show_icons=true&bg_color=000000,000000,000000,000000,000000,000000,000000,000000,040CE7&title_color=040CE7&text_color=fff&border_color=040CE7&icon_color=fff&hide_title=true" height="190">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&bg_color=000000,040CE7,000000,000000,000000,000000,000000,000000,000000,000000&text_color=fff&title_color=040CE7&border_color=040CE7&icon_color=fff&include_all_commits=true&count_private=true" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohFahmi27&layout=compact&show_icons=true&bg_color=000000,000000,000000,000000,000000,000000,000000,000000,040CE7&title_color=040CE7&text_color=fff&border_color=040CE7&icon_color=fff" height="180px">
 </p>
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohFahmi27&layout=compact"> -->
 
 ### How To Reach Me:
 <a href="mailto:mohammadfahmi417@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
