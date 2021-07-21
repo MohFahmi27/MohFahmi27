@@ -11,17 +11,20 @@ Just little bit of introduction, I'm Informatics student at Institute Technology
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&bg_color=000000&title_color=040CE7&text_color=fff&border_color=040CE7&icon_color=040CE7&include_all_commits=true&count_private=true"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&bg_color=000000,040CE7,000000,000000,000000,000000,000000,000000&title_color=fff&text_color=fff&border_color=040CE7&icon_color=fff&include_all_commits=true&count_private=true" height="195">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohFahmi27&layout=compact&show_icons=true&bg_color=000000,000000,000000,000000,000000,000000,000000,000000,040CE7&title_color=fff&text_color=fff&border_color=040CE7&icon_color=fff" height="195">
 </p>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohFahmi27&layout=compact"> -->
 
 ### How To Reach Me:
 <a href="mailto:mohammadfahmi417@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/mohammad-fahmi-57593a195/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-### Languages:
+<a href="https://www.instagram.com/mohfahmi27/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+### Language and Tools:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<!-- <p align="center">
-  <a href="https://github.com/MohFahmi27/MyExpertAndroidSubmission"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohFahmi27&repo=MyExpertAndroidSubmission&show_icons=true&theme=algolia"></a>
-  <a href="https://github.com/MohFahmi27/Sentiment-Analysis-for-Bahasa-using-Lexicon-Based-Approach"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohFahmi27&repo=Sentiment-Analysis-for-Bahasa-using-Lexicon-Based-Approach&show_icons=true&theme=algolia"></a>
-</p> -->
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySql](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
