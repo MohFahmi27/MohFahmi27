@@ -1,8 +1,9 @@
- <img align="left" src="https://github.com/MohFahmi27/MohFahmi27/blob/main/output-onlinepngtools%20(2).png" width="40px" height="120px"><h2>HEY DUDE, WHAT'S GOOD? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+<h2>HEY DUDE, WHAT'S GOOD? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
 [![GitHub followers](https://img.shields.io/github/followers/MohFahmi27?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers)](https://github.com/MohFahmi27?tab=followers)
 
 <img src="https://github.com/MohFahmi27/MohFahmi27/blob/main/profile-banner2.jpg">
+
 Just little bit of introduction, I'm Informatics student at Institute Technology of Kalimantan, interested in Android Development, NLP and Web Development. 
 
 - :computer: I’m currently learning Kotlin and Android Development.
