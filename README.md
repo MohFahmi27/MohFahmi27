@@ -2,6 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/MohFahmi27?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers)](https://github.com/MohFahmi27?tab=followers)
 
+
 <img src="https://github.com/MohFahmi27/MohFahmi27/blob/main/profile-banner2.jpg">
 
 Just little bit of introduction, I'm an Informatics student at the Institute Technology of Kalimantan, interested in Android Development, NLP, and Web Development.
