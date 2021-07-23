@@ -4,7 +4,7 @@
 
 <img src="https://github.com/MohFahmi27/MohFahmi27/blob/main/profile-banner2.jpg">
 
-Just little bit of introduction, I'm Informatics student at Institute Technology of Kalimantan, interested in Android Development, NLP and Web Development. 
+Just little bit of introduction, I'm an Informatics student at the Institute Technology of Kalimantan, interested in Android Development, NLP, and Web Development.
 
 - :computer: I’m currently learning Kotlin and Android Development.
 - 💬 I always get excited to learn something new.
