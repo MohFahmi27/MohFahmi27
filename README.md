@@ -13,8 +13,8 @@ Just little bit of introduction, I'm an Informatics student at the Institute Tec
 <br>
 <p align="center">
    <img src="http://github-readme-streak-stats.herokuapp.com?user=MohFahmi27&background=000000&border=040CE7&ring=040CE7&sideNums=040CE7&sideLabels=E7E7E7&stroke=040CE7&fire=040CE7&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&dates=7F7A7D"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&bg_color=000000,040CE7,000000,000000,000000,000000,000000,000000,000000,000000&text_color=fff&title_color=040CE7&border_color=040CE7&icon_color=fff&include_all_commits=true&count_private=true&hide_title=false" height="170px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohFahmi27&layout=compact&show_icons=true&bg_color=000000,000000,000000,000000,000000,000000,000000,000000,040CE7&title_color=040CE7&text_color=fff&border_color=040CE7&icon_color=fff&hide_title=true" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&bg_color=000000,040CE7,000000,000000,000000,000000,000000,000000,000000,000000&text_color=fff&title_color=040CE7&border_color=040CE7&icon_color=fff&include_all_commits=true&count_private=true&border_radius=8&custom_title=Github Stats for MohFahmi27" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohFahmi27&layout=compact&show_icons=true&bg_color=000000,000000,000000,000000,000000,000000,000000,000000,040CE7&title_color=040CE7&text_color=fff&border_color=040CE7&icon_color=fff&border_radius=8" height="170px">
 </p>
 
 <img align="left" src="https://github.com/MohFahmi27/MohFahmi27/blob/main/output-onlinepngtools%20(2).png" width="40px" height="120px"><h2>How To Reach Me:</h2>
@@ -33,4 +33,4 @@ Just little bit of introduction, I'm an Informatics student at the Institute Tec
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohFahmi27&show_icons=true&bg_color=000000&title_color=040CE7&text_color=fff&border_color=040CE7&icon_color=fff&hide_title=true&v=2" width="100%">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohFahmi27&show_icons=true&bg_color=000000&title_color=040CE7&text_color=fff&border_color=040CE7&icon_color=fff&hide_title=true&v=2&border_radius=15" width="100%">
