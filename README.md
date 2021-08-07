@@ -25,12 +25,19 @@ Just little bit of introduction, I'm an Informatics student at the Institute Tec
 <br>
 <img align="left" src="https://github.com/MohFahmi27/MohFahmi27/blob/main/output-onlinepngtools%20(2).png" width="40px" height="120px"><h2>Language and Tools: </h2>
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySql](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
+![VsCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 <br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MohFahmi27&show_icons=true&bg_color=000000&title_color=040CE7&text_color=fff&border_color=040CE7&icon_color=fff&hide_title=true&v=2&border_radius=15" width="100%">
+<br>
+<details>
+   <summary align="left"><b>VIEW MORE</b></summary>
+   <h2>Github Trophies:</h2>
+   <img src="https://github-profile-trophy.vercel.app/?username=MohFahmi27&theme=onestar&no-frame=true" width="100%">
+   <h2>Wakatime Stats:</h2>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MohFahmi27&show_icons=true&bg_color=000000&title_color=040CE7&text_color=fff&border_color=040CE7&icon_color=fff&hide_title=true&v=2&border_radius=18" width="100%">
+</details>
