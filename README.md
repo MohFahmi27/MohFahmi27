@@ -7,7 +7,7 @@
 
 Just little bit of introduction, I'm an Informatics student at the Institute Technology of Kalimantan, interested in Android Development, NLP, and Web Development.
 
-- :computer: I’m currently learning Kotlin and Android Development.
+- :computer: I’m currently learning Django, Kotlin and Android Development.
 - 💬 I always get excited to learn something new.
 - Looking forward to have an internship soon.
 - Try to be consistent every single day.
