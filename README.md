@@ -1,5 +1,6 @@
 <h2>HELLO THERE, WHAT'S GOOD? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
+![Visitor](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MohFahmi27.MohFahmi27&color=236ad3&lcolor=1155ba&style=for-the-badge&logo=Github)
 [![GitHub followers](https://img.shields.io/github/followers/MohFahmi27?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers)](https://github.com/MohFahmi27?tab=followers)
 
 <img src="https://github.com/MohFahmi27/MohFahmi27/blob/main/profile-banner3.jpg">
