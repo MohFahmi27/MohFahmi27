@@ -4,7 +4,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/MohFahmi27?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers)](https://github.com/MohFahmi27?tab=followers)
 
 <img src="https://github.com/MohFahmi27/MohFahmi27/blob/main/profile-banner3.jpg">
-
 Just little bit of introduction, I'm an Informatics student at the Institute Technology of Kalimantan, interested in Android Development, NLP, and Web Development.
 
 - I’m currently learning Django, Kotlin and Android Development.
@@ -15,9 +14,10 @@ Just little bit of introduction, I'm an Informatics student at the Institute Tec
 <!-- README STATS SECTION -->
 <br>
 <p align="center">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=MohFahmi27&background=000000&border=000000&ring=040CE7&sideNums=040CE7&sideLabels=E7E7E7&stroke=040CE7&fire=040CE7&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&dates=7F7A7D"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&bg_color=000000,040CE7,000000,000000,000000,000000,000000,000000,000000,000000&text_color=fff&title_color=040CE7&border_color=000000&icon_color=fff&include_all_commits=true&count_private=true&border_radius=8&custom_title=Github Stats for MohFahmi27" height="170px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohFahmi27&layout=compact&show_icons=true&bg_color=000000,000000,000000,000000,000000,000000,000000,000000,040CE7&title_color=040CE7&text_color=fff&border_color=000000&icon_color=fff&border_radius=8" height="170px">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=MohFahmi27&background=000000&border=000000&ring=040CE7&sideNums=040CE7&sideLabels=E7E7E7&stroke=040CE7&fire=040CE7&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&dates=7F7A7D">
+   <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&bg_color=000000,040CE7,000000,000000,000000,000000,000000,000000,000000,000000&text_color=fff&title_color=040CE7&border_color=000000&icon_color=fff&include_all_commits=true&count_private=true&border_radius=5&custom_title=Github Stats for MohFahmi27" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohFahmi27&layout=compact&show_icons=true&bg_color=000000,000000,000000,000000,000000,000000,000000,000000,040CE7&title_color=040CE7&text_color=fff&border_color=000000&icon_color=fff&border_radius=5" height="170px">
 </p>
 
 <!-- CONTACTS SECTION -->
