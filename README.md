@@ -3,7 +3,7 @@
 ![Visitor](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MohFahmi27.MohFahmi27&color=236ad3&lcolor=1155ba&style=for-the-badge&logo=Github)
 [![GitHub followers](https://img.shields.io/github/followers/MohFahmi27?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers)](https://github.com/MohFahmi27?tab=followers)
 
-<img src="https://github.com/MohFahmi27/MohFahmi27/blob/main/profile-banner3.jpg">
+<img src="https://github.com/MohFahmi27/MohFahmi27/blob/main/assets/profile-banner.jpg">
 Just little bit of introduction, I'm an Informatics student at the Institute Technology of Kalimantan, interested in Android Development, NLP, and Web Development.
 
 - I’m currently learning Django, Kotlin and Android Development.
@@ -21,14 +21,14 @@ Just little bit of introduction, I'm an Informatics student at the Institute Tec
 </p>
 
 <!-- CONTACTS SECTION -->
-<img align="left" src="https://github.com/MohFahmi27/MohFahmi27/blob/main/output-onlinepngtools%20(2).png" width="40px" height="120px"><h2>How To Reach Me:</h2>
+<img align="left" src="https://github.com/MohFahmi27/MohFahmi27/blob/main/assets/icon-star-fallen.png" width="40px" height="120px"><h2>How To Reach Me:</h2>
 <a href="mailto:mohammadfahmi417@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/mohammad-fahmi-57593a195/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/mohfahmi27/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 <!-- LANGUAGE AND TOOLS SECTION -->
 <br>
-<img align="left" src="https://github.com/MohFahmi27/MohFahmi27/blob/main/output-onlinepngtools%20(2).png" width="40px" height="120px"><h2>Language and Tools: </h2>
+<img align="left" src="https://github.com/MohFahmi27/MohFahmi27/blob/main/assets/icon-star-fallen.png" width="40px" height="120px"><h2>Language and Tools: </h2>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
