@@ -50,3 +50,4 @@ Just little bit of introduction, I'm an Informatics student at the Institute Tec
    <h2>Wakatime Stats:</h2>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MohFahmi27&show_icons=true&bg_color=25,040CE7,000000,000000,000000,000000,000000,000000,000000,000000&title_color=040CE7&text_color=fff&border_color=000000&icon_color=fff&hide_title=true&v=2&border_radius=8" width="100%">
 </details>
+<hr>
