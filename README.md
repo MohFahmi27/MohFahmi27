@@ -17,7 +17,7 @@ Just little bit of introduction, I'm an Informatics student at the Institute Tec
    <img src="http://github-readme-streak-stats.herokuapp.com?user=MohFahmi27&background=000000&border=000000&ring=040CE7&sideNums=040CE7&sideLabels=E7E7E7&stroke=040CE7&fire=040CE7&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&dates=7F7A7D">
    <br>
   <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&bg_color=000000,040CE7,000000,000000,000000,000000,000000,000000,000000,000000&text_color=fff&title_color=040CE7&border_color=000000&icon_color=fff&include_all_commits=true&count_private=true&border_radius=5&disable_animations=true&custom_title=Github Stats for MohFahmi27" height="170px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohFahmi27&layout=compact&show_icons=true&bg_color=000000,000000,000000,000000,000000,000000,000000,000000,040CE7&title_color=040CE7&text_color=fff&border_color=000000&icon_color=fff&disable_animations=true&border_radius=5&hide=Jupyter%20Notebook,CSS,SCSS,Javascript" height="170px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohFahmi27&layout=compact&show_icons=true&bg_color=000000,000000,000000,000000,000000,000000,000000,000000,040CE7&title_color=040CE7&text_color=fff&border_color=000000&icon_color=fff&disable_animations=true&border_radius=5&hide=Jupyter%20Notebook,CSS,SCSS,Javascript,PHP,Sass" height="170px">
 </p>
 
 <!-- CONTACTS SECTION -->
