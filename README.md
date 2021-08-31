@@ -8,10 +8,9 @@ Just little bit of introduction, I'm an Informatics student at the Institute Tec
 <!-- JOKE CARD -->
 <img align="right" src="https://readme-jokes.vercel.app/api?bgColor=%23FFFFFF00&borderColor=%black&qColor=%23040CE7&aColor=white" alt="Jokes Card" />
 
-- I’m currently learning Django, Kotlin and Android Development.
-- Looking forward to have an internship soon.
-- Try to be consistent every single day.
-- Dealing with quarter life crisis sometime.
+- :books: I’m currently learning Django, Kotlin and Android Development.
+- :mag: Looking forward to have an internship soon.
+- :rocket: Try to be consistent every single day.
 
 <!-- README STATS SECTION -->
 <br>
