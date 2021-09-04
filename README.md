@@ -48,6 +48,6 @@ Just little bit of introduction, I'm an Informatics student at the Institute Tec
    <h2>Github Trophies:</h2>
    <img src="https://github-profile-trophy.vercel.app/?username=MohFahmi27&theme=onestar&no-frame=true&margin-w=8" width="100%">
    <h2>Wakatime Stats:</h2>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MohFahmi27&show_icons=true&bg_color=25,040CE7,000000,000000,000000,000000,000000,000000,000000,000000&hide_border=true&title_color=040CE7&text_color=fff&icon_color=fff&hide_title=true&v=2&border_radius=8" width="100%">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MohFahmi27&show_icons=true&bg_color=45,040CE7,000000,000000,000000,000000,000000,000000,000000&hide_border=true&title_color=040CE7&text_color=fff&icon_color=fff&hide_title=true&v=2&border_radius=4" width="100%">
 </details>
 <hr>
