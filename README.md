@@ -1,4 +1,4 @@
-<h3 align="center">HELLO THERE, WHAT'S GOOD? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+<h2 align="center">HELLO THERE, WHAT'S GOOD? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=040CE7&size=22&center=true&vCenter=true&lines=College+Student+from+Indonesia;Try+to+becoming+Android+Developer;Still+many+things+to+learn!">
@@ -24,7 +24,7 @@ Just little bit of introduction, I'm an Informatics student at the Institute Tec
 <!-- README STATS SECTION -->
 <br>
 <p align="center">
-   <img src="http://github-readme-streak-stats.herokuapp.com?user=MohFahmi27&background=000000&border=000000&ring=040CE7&sideNums=040CE7&sideLabels=E7E7E7&stroke=040CE7&fire=040CE7&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&dates=7F7A7D" height="180px">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=MohFahmi27&background=000000&border=000000&ring=040CE7&sideNums=040CE7&sideLabels=E7E7E7&stroke=040CE7&fire=040CE7&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&dates=7F7A7D">
    <br>
   <img src="https://github-readme-stats.vercel.app/api?username=MohFahmi27&show_icons=true&bg_color=000000,040CE7,000000,000000,000000,000000,000000,000000,000000,000000&text_color=fff&title_color=040CE7&hide_border=true&icon_color=fff&include_all_commits=true&count_private=true&border_radius=5&disable_animations=true&hide=issues&custom_title=Github Stats for MohFahmi27" height="165px"\>   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohFahmi27&layout=compact&show_icons=true&bg_color=000000,000000,000000,000000,000000,000000,000000,000000,040CE7&title_color=040CE7&text_color=fff&hide_border=true&icon_color=fff&disable_animations=true&border_radius=5&count_private=true&hide=Jupyter%20Notebook,CSS,SCSS,Javascript,PHP,Sass" height="165px"\>
