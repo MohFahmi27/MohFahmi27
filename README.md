@@ -4,6 +4,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=040CE7&size=22&center=true&vCenter=true&lines=College+Student+from+Indonesia;Try+to+becoming+Android+Developer;Still+many+things+to+learn!">
 </p>
 
+<!-- CONTACT & PROFILE INFO SECTION -->
 <p align="center">
    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=MohFahmi27.MohFahmi27&color=236ad3&lcolor=1155ba&style=for-the-badge&logo=Github">
    <img src="https://img.shields.io/github/followers/MohFahmi27?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers">
@@ -14,6 +15,7 @@
 
 <img src="https://github.com/MohFahmi27/MohFahmi27/blob/main/assets/profile-banner.jpg">
 Just little bit of introduction, I'm an Informatics student at the Institute Technology of Kalimantan, interested in Android Development, NLP, and Web Development.
+
 <!-- JOKE CARD -->
 <img align="right" src="https://readme-jokes.vercel.app/api?bgColor=%23FFFFFF00&borderColor=%black&qColor=%23040CE7&aColor=white" alt="Jokes Card" />
 
@@ -42,7 +44,7 @@ Just little bit of introduction, I'm an Informatics student at the Institute Tec
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=1155ba&labelColor=1155ba">
 </p>
 
-<!-- STATS SECTION -->
+<!-- WEEKLY STATS SECTION -->
 <br>
 <img align="left" src="https://github.com/MohFahmi27/MohFahmi27/blob/main/assets/icon-star-fallen.png" width="40px" height="120px"><h2>⏳ Weekly Stats: </h2>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?layout=compact&username=MohFahmi27&show_icons=true&bg_color=000000,040CE7,000000,000000,000000,000000,000000,000000,000000,000000,000000,040CE7&hide_border=true&title_color=040CE7&text_color=fff&icon_color=fff&hide_title=true&v=2&border_radius=7" width="90%">
