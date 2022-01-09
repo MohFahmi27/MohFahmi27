@@ -17,7 +17,7 @@
 Just little bit of introduction, I'm an Informatics student at the Institute Technology of Kalimantan, interested in Android Development and Web Development.
 
 <!-- JOKE CARD -->
-<img align="right" src="https://readme-jokes.vercel.app/api?bgColor=%23FFFFFF00&borderColor=%black&qColor=%23040CE7&aColor=white" alt="Jokes Card" />
+<img align="right" src="https://readme-jokes.vercel.app/api?bgColor=%23FFFFFF00&borderColor=%black&qColor=%232F50D4&aColor=white" alt="Jokes Card" />
 
 - :books: I’m currently learning Android Development.
 - :mag: Looking forward to have an internship soon.
