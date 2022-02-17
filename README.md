@@ -20,7 +20,6 @@ Just little bit of introduction, I'm an Informatics student at the Institute Tec
 <img align="right" src="https://readme-jokes.vercel.app/api?bgColor=%23FFFFFF00&borderColor=%black&qColor=%232F50D4&aColor=white" alt="Jokes Card" />
 
 - :books: I’m currently learning Android Development.
-- :mag: Looking forward to have an internship soon.
 - :rocket: Try to be consistent every single day.
 
 <!-- README STATS SECTION -->
