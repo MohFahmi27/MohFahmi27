@@ -17,13 +17,18 @@
 Just little bit of introduction, I'm an Informatics student at the Institute Technology of Kalimantan, interested in Android Development and Web Development.
 
 <!-- JOKE CARD -->
+<br>
 <img align="right" src="https://readme-jokes.vercel.app/api?bgColor=%23FFFFFF00&borderColor=%black&qColor=%232F50D4&aColor=white" alt="Jokes Card" />
-
+<div display="inline-block">
 - :books: I’m currently learning Android Development.
+   <br>
 - :rocket: Try to be consistent every single day.
+   <br>
+   <br>
+   <br><br><br>
+</div>
 
 <!-- README STATS SECTION -->
-<br>
 <p align="center">
    <img src="http://github-readme-streak-stats.herokuapp.com?user=MohFahmi27&background=000000&border=000000&ring=040CE7&sideNums=040CE7&sideLabels=E7E7E7&stroke=040CE7&fire=040CE7&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&dates=7F7A7D">
    <br>
