@@ -44,6 +44,15 @@ Just little bit of introduction, I'm an Informatics student at the Institute Tec
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white&color=1155ba&labelColor=1155ba">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=1155ba&labelColor=1155ba">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=1155ba&labelColor=1155ba">
+<img src="https://img.shields.io/badge/Hugo-%23E34F26.svg?style=for-the-badge&logo=Hugo&logoColor=white&color=1155ba&labelColor=1155ba">
+<img src="https://img.shields.io/badge/flask-%23E34F26.svg?style=for-the-badge&logo=flask&logoColor=white&color=1155ba&labelColor=1155ba">
+<img src="https://img.shields.io/badge/dart-%23E34F26.svg?style=for-the-badge&logo=dart&logoColor=white&color=1155ba&labelColor=1155ba">
+<img src="https://img.shields.io/badge/Flutter-%23E34F26.svg?style=for-the-badge&logo=Flutter&logoColor=white&color=1155ba&labelColor=1155ba">
+<img src="https://img.shields.io/badge/firebase-%23E34F26.svg?style=for-the-badge&logo=firebase&logoColor=white&color=1155ba&labelColor=1155ba">
+<img src="https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white&color=1155ba&labelColor=1155ba">
+<img src="https://img.shields.io/badge/github%20actions-%23E34F26.svg?style=for-the-badge&logo=githubactions&logoColor=white&color=1155ba&labelColor=1155ba">
+<img src="https://img.shields.io/badge/Android%20Studio-%23E34F26.svg?style=for-the-badge&logo=android-studio&logoColor=white&color=1155ba&labelColor=1155ba">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23E34F26.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=1155ba&labelColor=1155ba">
 </p>
 
 <!-- WEEKLY STATS SECTION -->
