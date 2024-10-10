@@ -6,7 +6,6 @@
 
 <!-- CONTACT & PROFILE INFO SECTION -->
 <p align="center">
-   <img src="https://vbr.wocr.tk/badge?page_id=MohFahmi27.MohFahmi27&color=236ad3&lcolor=1155ba&style=for-the-badge&logo=Github">
    <img src="https://img.shields.io/github/followers/MohFahmi27?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers">
    <a href="mailto:mohammadfahmi417@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=1155ba&labelColor=1155ba"></a>
    <a href="https://www.linkedin.com/in/mohammad-fahmi-57593a195/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=1155ba&labelColor=1155ba"></a>
